@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sahid<br><br>I’m a  2nd-year Information Technology student and a Full-Stack Developer passionate about building impactful technology.<br> I primarily work with the MERN stack (MongoDB, Express, React, Node.js) and enjoy developing scalable web applications while exploring AI, IoT, and data-driven systems.<br><br>Currently,<br>1. I am focused on building real-world products<br>2. Participating in hackathons, and preparing to contribute to open-source projects like Google Summer of Code (GSoC)**.<br>
+👋 Hi, I'm Sahid<br><br>I’m a  3rd-year Information Technology student and a Full-Stack Developer passionate about building impactful technology.<br> I primarily work with the MERN stack (MongoDB, Express, React, Node.js) and enjoy developing scalable web applications while exploring AI, IoT, and data-driven systems.<br><br>Currently,<br>1. I am focused on building real-world products<br>2. Participating in hackathons, and preparing to contribute to open-source projects like Google Summer of Code (GSoC)**.<br>
 
 
 ## 🌐 Socials:
